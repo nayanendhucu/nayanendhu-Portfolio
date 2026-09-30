@@ -4,7 +4,7 @@ Welcome to my personal portfolio website.
 
 I built this portfolio to bring together my projects, technical skills, experience, certifications, and learning journey in one place. My main focus is on **Data Analytics, Machine Learning, and solving practical problems with data and technology**.
 
-🌐 **Live Portfolio:** [singular-belekoy-c51369.netlify.app](https://nayanendhuportfolio.netlify.app/)
+🌐 **Live Portfolio:** [nayanendhuportfolio.netlify.app](https://nayanendhuportfolio.netlify.app/)
 💻 **GitHub:** [github.com/nayanendhucu](https://github.com/nayanendhucu)
 🔗 **LinkedIn:** [linkedin.com/in/nayanendhu-unnikrishnan](https://www.linkedin.com/in/nayanendhu-unnikrishnan)
 
